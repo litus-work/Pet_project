@@ -1,2 +1,4 @@
 *.env*
 venv/
+context.db
+__pycache__
